@@ -40,8 +40,6 @@ const routes: Routes = [
   },
   {
     path:'gallery',component:GalleryComponent,
-  
-
   },
   {
     path:'menu',component:MenuComponent,
